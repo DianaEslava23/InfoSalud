@@ -25,7 +25,7 @@ const Detalle = function (){
         <p>La malaria, también conocida como paludismo, sigue siendo un importante desafío de salud pública en Colombia. A pesar de los esfuerzos realizados, especialmente en las últimas décadas, para su control y prevención, la malaria continúa siendo endémica en varias regiones del país. La incidencia de la enfermedad varía según las zonas geográficas y climáticas, siendo las áreas rurales y de selva las más afectadas. </p>
         <br />
         <div className="Grafica">
-        <iframe title="3" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYjdhOGRhYTAtMzhlYi00ZmI4LWFmZmItZDZiNTllZDMxNWE5IiwidCI6IjU3N2ZjMWQ4LTA5MjItNDU4ZS04N2JmLWVjNGY0NTVlYjYwMCIsImMiOjR9" frameborder="0" allowFullScreen="true"></iframe>
+        <iframe title="3" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiYjdhOGRhYTAtMzhlYi00ZmI4LWFmZmItZDZiNTllZDMxNWE5IiwidCI6IjU3N2ZjMWQ4LTA5MjItNDU4ZS04N2JmLWVjNGY0NTVlYjYwMCIsImMiOjR9&pageName=ReportSection06ea6970608b134c4da1" frameborder="0" allowFullScreen="true"></iframe>
         </div>
     </section>
     <Footer />
