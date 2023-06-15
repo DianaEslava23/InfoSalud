@@ -1,18 +1,17 @@
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import"../estilos/Home.css"
+import React from "react";
+import"../estilos/header.css"
+import icono from"../imagenes/icono.png";
 
 const Header = function (){
     return (
     <>
     <header className='header'>
-        <FontAwesomeIcon icon="laptop-medical" />
-        <h1>INFOSALUD</h1>
-        <ul className='navegacion'>
-        <li><a href="" >Inicio</a></li>
-        <li><a href="" >Salud pais</a></li>
-        <li><a href="" >analisis en detalle</a></li>
-        <li><a href="" >Conclusion</a></li>
-        </ul>
+        <a href="#" className="icono-nav"><img src={icono} alt="icono" />
+        <h1>INFOSALUD</h1></a>
+        <a href="/" >Inicio</a>
+        <a href="/SaludPais" >Salud pais</a>
+        <a href="/Detalle" >Análisis en detalle</a>
+        <a href="/Conclusion" >Conclusión</a>
     </header>
     </>
     )

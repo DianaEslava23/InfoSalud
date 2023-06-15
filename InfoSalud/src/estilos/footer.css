@@ -1,0 +1,10 @@
+footer{
+    bottom: 0;
+    left: 0;
+    padding: 2rem 8%;
+    background-color: aliceblue;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
