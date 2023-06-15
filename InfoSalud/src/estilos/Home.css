@@ -1,0 +1,16 @@
+
+.navegacion {
+    display: flex;
+    justify-content: center;
+    list-style: none;
+    padding: 0;
+    align-items: center;
+  }
+
+.header{
+    background-color: rgb(136, 180, 86);
+    font-size: 10px;
+    margin: 0px;
+    size: 100%;
+    max-width: 100%;
+}
